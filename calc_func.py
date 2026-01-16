@@ -1,3 +1,4 @@
+# calculation function
 def calc(values, operator):
     if operator == "+":
         sumation = 0
